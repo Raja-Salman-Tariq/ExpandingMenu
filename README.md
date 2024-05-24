@@ -15,7 +15,7 @@ The Variant level is our "leaf" level.
 
 # Summaries
 - Summaries exist on "variant" nodes and in the "selected variants" section.
-- For nodes, summaries are available only when the item is collapsed. The summary shows the sub options.
+- For nodes, summaries are available only when the item is collapsed nd there are somem child elements. The summary shows the sub options.
 - For variant nodes, the summary also shows the qunatity of the available variants.
 - For Selected Variants section, if a category is selected, then the summary states "All ${category} devices".
 - For Selected Variants section, if a variant is selected, then the summary lists all variants, grouped by their parent category.
